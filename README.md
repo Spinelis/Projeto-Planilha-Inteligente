@@ -3,4 +3,4 @@ Criação de uma planilha financeira inteligente desenvolvida no Excell
 
 ## Destinação
 
-Planilha criada para facilitar o controle financeiro dos gastos pessoal
+Criada para facilitar o controle financeiro dos gastos pessoal
